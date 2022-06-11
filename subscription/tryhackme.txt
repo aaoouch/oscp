@@ -1,0 +1,14 @@
+Subscription summary
+Reg Yearly USD $90.00
+
+Invoiced amount
+$90.00
+
+Payment method
+card ending with 7387
+
+Next renewal on
+11-Jun-2023 15:32
+
+Estimated charge on next renewal
+$90.00
